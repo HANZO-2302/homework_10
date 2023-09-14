@@ -36,13 +36,13 @@
 #
 #
 # def split_file_path(file_path):
-# 	# Получаем имя файла с расширением
+# 	
 # 	file_name = os.path.basename(file_path)
 #
-# 	# Получаем путь до файла
+# 	
 # 	path = os.path.dirname(file_path)
 #
-# 	# Разделяем имя файла и расширение
+# 	
 # 	file_name, file_extension = os.path.splitext(file_name)
 #
 # 	return (path, file_name, file_extension)
